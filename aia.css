@@ -24,7 +24,7 @@ input{ border-color: dodgerblue;}
 .main{background-image: url(hex-textured-background-networking.jpg); height: 200%;width: 100%; background-repeat: no-repeat; background-size: cover; background-position: center}
 .navbar img{margin-left: 90px; }
 table{ padding: 100px; justify-content: space-between; align-items: center; margin: auto; }
-.template{background-color: rgba(2000,2000,2000,0.8); border-radius: 10px;width: 230px;height: 230; animation-name: fadeIn; animation-duration: 7s; margin-left: 10px;margin-right: 10px; margin-bottom: 10px; font-size: 20px; }
+.template{background-color: rgba(2000,2000,2000,0.8); border-radius: 10px;width: 230px;height: 230; animation-name: fadeIn; animation-duration: 7s; margin-left: 2px;margin-right: 2px; margin-bottom: 10px; font-size: 20px; }
 .template h3{margin: 35px;}
 .template img{margin-left: 45px; width: 40%}
 
