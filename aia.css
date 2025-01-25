@@ -1,10 +1,10 @@
-html{margin: 0px}
+html{margin: 0px;}
 .main{ margin: -1px;width: 100%}
 .navbar{background-color:rgba(23,23,23, 0.8);;; justify-content: space-between; height: 86px;}
 .navbar a  { color:white; margin-left: 50px; margin-bottom: 10px ;text-align: center; text-justify: auto; font-family: monospace;font-size: 24px;}
 .namex{margin-left: 20px}
 .table1{margin-left: -40px}
-.table4 td{margin-right: 40px}
+.table4 td{padding: 0px}
 input{ border-color: dodgerblue;}
 .template{padding-bottom: 8px}
 @keyframes fadeIn {
@@ -18,7 +18,7 @@ input{ border-color: dodgerblue;}
 }
 @keyframes a3 {
     from { margin-left: 5px; }
-    to {margin-left: 300px }
+    to {margin-left: 350px }
 }
 @keyframes a32 {
     from { margin-top: 495px; }
@@ -46,11 +46,11 @@ input{animation-name:fadeIn; animation-duration: 1s; margin-left:0px;  }
 .d button{padding: 10px;border-radius: 6px; background-color: transparent; margin-left: 40px}
 
 
-.u{  width:100px;height:100px; border-radius: 100px;  background-position: center; background-size: cover;}
+.u{margin-left: 10px;  width:100px;height:100px; border-radius: 100px;  background-position: center; background-size: cover;}
 .u1{background-image: url(space.jpg);}
 .u3{background-image: url(IMG-20240722-WA0036.jpg);}
-
 .u2{background-image: url('images%20(6).jpeg');}
+
 .table2 button{background-color: transparent; border:2px  solid white;color:blueviolet; padding: 12px; border-radius: 8px; border-right-color: blueviolet; border-top-color: blueviolet; border-bottom-color: snow; border-left-color: snow;}
 .table2 {table-layout: fixed;}
 .img5{height: 70px; width: 70px; border-radius:70px;   background-position: center; background-size: cover; }
