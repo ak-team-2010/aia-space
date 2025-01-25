@@ -1,13 +1,17 @@
 html{margin: 0px}
 .main{ margin: -1px;width: 100%}
-.navbar{background-color:rgba(0, 0, 0, 0.6);;; justify-content: space-between; height: 80px;}
+.navbar{background-color:rgba(23,23,23, 0.8);;; justify-content: space-between; height: 86px;}
 .navbar a  { color:white; margin-left: 50px; margin-bottom: 10px ;text-align: center; text-justify: auto; font-family: monospace;font-size: 24px;}
-.table1{margin-left: -80px}
+.namex{margin-left: 20px}
+.table1{margin-left: -40px}
+.table4 td{margin-right: 40px}
 input{ border-color: dodgerblue;}
+.template{padding-bottom: 8px}
 @keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 10; }
 }
+.table4 {}
 @keyframes a2 {
     from { color: orange;}
     to { color:white; }
@@ -23,7 +27,7 @@ input{ border-color: dodgerblue;}
 .about{ ;animation-name: a32; animation-duration: 13s}
 
 .input{}
-.main{background-image: url(hex-textured-background-networking.jpg); height: 200%;width: 100%; background-repeat: no-repeat; background-size: cover; background-position: center}
+.main{background-image: url(galaxy-night-panorama.jpg); height: 1233px;width: 100%; background-repeat: no-repeat; background-size: cover; background-position: center; }
 .navbar img{margin-left: 90px; }
 table{ padding: 100px; justify-content: space-between; align-items: center; margin: auto; }
 .template{background-color: rgba(2000,2000,2000,0.8); border-radius: 10px;width: 230px;height: 230; animation-name: fadeIn; animation-duration: 7s; margin-left: 2px;margin-right: 2px; margin-bottom: 10px; font-size: 20px; }
@@ -58,4 +62,4 @@ input{animation-name:fadeIn; animation-duration: 1s; margin-left:0px;  }
 .p5{margin-left: 10px}
 .table4 td{margin-left: 20px}
 .price{margin-left:40%; font-family: monospace; font-size: 230%}
-.btn{background-color: deepskyblue;padding: 12px;border-radius:  5px; margin-left: 78px; color: white;border-color: transparent;}
+.btn{background-color: deepskyblue;padding: 12px;border-radius:  5px; margin-left: 58px; color: white;border-color: transparent;width: 60%}
